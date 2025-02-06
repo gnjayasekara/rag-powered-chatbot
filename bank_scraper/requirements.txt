@@ -1,0 +1,15 @@
+
+```
+openai==0.28.0
+python-dotenv==0.19.2
+scrapy==2.6.1
+requests==2.26.0
+```
+
+
+
+To install the dependencies, run:
+
+```bash
+pip install -r requirements.txt
+``` 
