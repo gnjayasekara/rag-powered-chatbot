@@ -93,7 +93,7 @@ banking-ai-bot/
 ```python
 from response_generator import generate_response
 
-context = "The interest rates for fixed deposits at DFCC Bank are higher for longer terms."
+context = "The interest rates for fixed deposits at Bank X are higher for longer terms."
 question = "What is the interest rate for a 6-month fixed deposit?"
 prompt = f"Answer this question: {question}\nUsing only this context:\n{context}"
 
